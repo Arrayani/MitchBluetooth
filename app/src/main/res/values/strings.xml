@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MitchBluetooth</string>
+    <string name="bluetooth_devices">bluetooth_devices</string>
+</resources>
